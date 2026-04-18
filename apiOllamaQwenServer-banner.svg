@@ -1,0 +1,59 @@
+<svg width="1200" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>apiOllamaQwenServer — project banner</title>
+<desc>Header banner for apiOllamaQwenServer, a local REST API server built with Ollama and Qwen language models</desc>
+<defs>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#1D9E75"/>
+    <stop offset="50%" stop-color="#7F77DD"/>
+    <stop offset="100%" stop-color="#EF9F27"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#7F77DD" stop-opacity="0.13"/>
+    <stop offset="100%" stop-color="#7F77DD" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+
+<rect width="680" height="200" fill="#0D1117" rx="8"/>
+<rect x="0" y="0" width="680" height="3" fill="url(#bar)" rx="3"/>
+<ellipse cx="340" cy="88" rx="280" ry="95" fill="url(#glow)"/>
+
+<line x1="52" y1="85" x2="98" y2="50" stroke="#1D9E75" stroke-width="0.5" stroke-opacity="0.45"/>
+<line x1="52" y1="85" x2="85" y2="138" stroke="#1D9E75" stroke-width="0.5" stroke-opacity="0.3"/>
+<line x1="98" y1="50" x2="150" y2="68" stroke="#7F77DD" stroke-width="0.5" stroke-opacity="0.4"/>
+<line x1="150" y1="68" x2="140" y2="125" stroke="#7F77DD" stroke-width="0.5" stroke-opacity="0.3"/>
+<line x1="85" y1="138" x2="140" y2="125" stroke="#EF9F27" stroke-width="0.5" stroke-opacity="0.38"/>
+<circle cx="52" cy="85" r="5.5" fill="#1D9E75" fill-opacity="0.6"/>
+<circle cx="98" cy="50" r="3.5" fill="#7F77DD" fill-opacity="0.75"/>
+<circle cx="150" cy="68" r="4" fill="#7F77DD" fill-opacity="0.5"/>
+<circle cx="85" cy="138" r="3" fill="#1D9E75" fill-opacity="0.45"/>
+<circle cx="140" cy="125" r="3.5" fill="#EF9F27" fill-opacity="0.55"/>
+<circle cx="52" cy="85" r="9" fill="none" stroke="#1D9E75" stroke-width="0.5" stroke-opacity="0.25"/>
+
+<line x1="628" y1="85" x2="582" y2="50" stroke="#1D9E75" stroke-width="0.5" stroke-opacity="0.45"/>
+<line x1="628" y1="85" x2="595" y2="138" stroke="#1D9E75" stroke-width="0.5" stroke-opacity="0.3"/>
+<line x1="582" y1="50" x2="530" y2="68" stroke="#7F77DD" stroke-width="0.5" stroke-opacity="0.4"/>
+<line x1="530" y1="68" x2="540" y2="125" stroke="#7F77DD" stroke-width="0.5" stroke-opacity="0.3"/>
+<line x1="595" y1="138" x2="540" y2="125" stroke="#EF9F27" stroke-width="0.5" stroke-opacity="0.38"/>
+<circle cx="628" cy="85" r="5.5" fill="#1D9E75" fill-opacity="0.6"/>
+<circle cx="582" cy="50" r="3.5" fill="#7F77DD" fill-opacity="0.75"/>
+<circle cx="530" cy="68" r="4" fill="#7F77DD" fill-opacity="0.5"/>
+<circle cx="595" cy="138" r="3" fill="#1D9E75" fill-opacity="0.45"/>
+<circle cx="540" cy="125" r="3.5" fill="#EF9F27" fill-opacity="0.55"/>
+<circle cx="628" cy="85" r="9" fill="none" stroke="#1D9E75" stroke-width="0.5" stroke-opacity="0.25"/>
+
+<text x="340" y="90" text-anchor="middle" font-family="'SF Mono','Fira Code','Cascadia Code',monospace" font-size="25" font-weight="600" fill="#E6EDF3" letter-spacing="-0.5">apiOllamaQwenServer</text>
+
+<text x="340" y="112" text-anchor="middle" font-family="-apple-system,system-ui,sans-serif" font-size="12" font-weight="400" fill="#8B949E" letter-spacing="1.2">LOCAL AI MODEL API SERVER  ·  OLLAMA  ·  QWEN</text>
+
+<rect x="208" y="132" width="70" height="23" rx="11.5" fill="#0F6E56" fill-opacity="0.4" stroke="#1D9E75" stroke-width="0.75" stroke-opacity="0.65"/>
+<text x="243" y="148" text-anchor="middle" font-family="-apple-system,system-ui,sans-serif" font-size="11" font-weight="500" fill="#5DCAA5">Ollama</text>
+
+<rect x="290" y="132" width="96" height="23" rx="11.5" fill="#3C3489" fill-opacity="0.35" stroke="#7F77DD" stroke-width="0.75" stroke-opacity="0.65"/>
+<text x="338" y="148" text-anchor="middle" font-family="-apple-system,system-ui,sans-serif" font-size="11" font-weight="500" fill="#AFA9EC">Qwen Models</text>
+
+<rect x="398" y="132" width="75" height="23" rx="11.5" fill="#633806" fill-opacity="0.35" stroke="#EF9F27" stroke-width="0.75" stroke-opacity="0.65"/>
+<text x="435" y="148" text-anchor="middle" font-family="-apple-system,system-ui,sans-serif" font-size="11" font-weight="500" fill="#FAC775">REST API</text>
+
+<line x1="60" y1="178" x2="620" y2="178" stroke="#21262D" stroke-width="0.5"/>
+<text x="340" y="192" text-anchor="middle" font-family="-apple-system,system-ui,sans-serif" font-size="10" fill="#3D444D" letter-spacing="1.2">POWERED BY OLLAMA · NODE.JS · EXPRESS</text>
+</svg>

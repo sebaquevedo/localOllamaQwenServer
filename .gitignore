@@ -34,3 +34,11 @@ build/
 
 ### Claude Code ###
 .claude/
+
+### Secrets & local config — never commit these ###
+src/main/resources/application.properties
+src/main/resources/application-*.properties
+.env
+.env.local
+.env.*.local
+compose.yaml
